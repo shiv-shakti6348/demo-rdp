@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Start Building...
-    runs-on: windows-latest
+    runs-on: mahakal-6348
     timeout-minutes: 360
     
     steps:
