@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Start Building...
-    runs-on: mahakal-6348
+    runs-on: self-hosted
     timeout-minutes: 360
     
     steps:
