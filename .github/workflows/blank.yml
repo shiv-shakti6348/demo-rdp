@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Start Building...
-    runs-on: windows-latest
+    runs-on: shiv-shakti-143  # Change to your self-hosted runner
     timeout-minutes: 360
     
     steps:
