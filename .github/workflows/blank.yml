@@ -6,7 +6,8 @@ on:
 jobs:
   build:
     name: Start Building...
-    runs-on: shiv-shakti-143  # Change to your self-hosted runner
+    runs-on: mahakal-6348
+    # Change to your self-hosted runner
     timeout-minutes: 360
     
     steps:
